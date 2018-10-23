@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Submodules.Second/v15
+/Submodules.Second.Logic/obj
+/Submodules.Second.Contracts/obj
+/Submodules.Second.Contracts/bin
+/Submodules.Second.Logic/bin
