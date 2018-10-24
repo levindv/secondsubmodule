@@ -2,6 +2,6 @@
 {
     public class SecondContract
     {
-        public string SecondPunctuationParam { get; set; } = ".";
+        public string SecondPunctuationParam { get; set; } = "!!!";
     }
 }
